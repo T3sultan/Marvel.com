@@ -1,9 +1,10 @@
 import React from "react";
+import TopMovies from "./TopMovies";
 
 const Home = () => {
   return (
     <div>
-      <h2>Home</h2>
+      <TopMovies />
     </div>
   );
 };
